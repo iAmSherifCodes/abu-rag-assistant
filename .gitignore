@@ -1,0 +1,17 @@
+*.swp
+.DS_Store
+
+# Node
+node_modules
+
+# Compiled output from TypeScript
+*.js
+*.d.ts
+!jest.config.js
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Misc
+*.log
